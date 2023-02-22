@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xTayh
+- 👋 Hi, I’m Thomas
 - 👀 I’m interested in everything programming.
-- 🌱 I’m currently learning HTML, JS, CSS
-- 📫 How to reach me on discord - Tayh | MulgaKongz#5165
+- 🌱 I’m currently learning React.js
+- 📫 How to reach me on discord - Tayh#5165
